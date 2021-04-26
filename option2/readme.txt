@@ -1,0 +1,3 @@
+- start main.py file.
+- after that user have to interact with the terminal
+- helperFuncs.py is only to export other functions
